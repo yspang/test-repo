@@ -1,1 +1,5 @@
-learn how push
+learn how to push files to gihub
+1. touch new file
+2. git add .
+3. git commit -m "more files to add"
+
