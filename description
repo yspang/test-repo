@@ -3,3 +3,7 @@ learn how to push files to gihub
 2. git add .
 3. git commit -m "more files to add"
 
+at local git git pull files edited or created by others at github
+
+
+
